@@ -1,5 +1,4 @@
-import "../App.css";
-import { useRef, useState } from "react";
+import { useRef } from "react";
 
 const Eyes = (props) => {
   const eyeBallsRef = useRef([]);
